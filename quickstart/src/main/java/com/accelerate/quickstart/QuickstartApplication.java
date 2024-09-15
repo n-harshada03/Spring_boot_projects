@@ -25,8 +25,6 @@ public class QuickstartApplication {
 
 }
 
-
-
 //  Spring Boot’s embedded Apache Tomcat server is acting as a webserver and is listening for
 //  requests on localhost port 8080. Open your browser and in the address bar at the top
 //  enter http://localhost:8080/hello
